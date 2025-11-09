@@ -1,5 +1,9 @@
 # Landing Page AUX Noise 🎧
 
+tampilan website
+<img width="1914" height="962" alt="image" src="https://github.com/user-attachments/assets/678a9410-4e9d-4b0f-bd38-8ab75b03b8bb" />
+
+
 ## 📄 Deskripsi
 AUX Noise adalah perusahaan teknologi kreatif yang bergerak di bidang **musik**, **video**, **desain**, dan **sound engineering**. Website ini merupakan landing page resmi AUX Noise yang menampilkan profil perusahaan, layanan utama, dan kontak yang dapat dihubungi.
 
